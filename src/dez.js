@@ -5,5 +5,6 @@ matriz = [
 ];
 linha = 0;
 while(linha < matriz.length){
-
+    console.log(matriz[linha][linha])
+    linha = linha + 1
 }
